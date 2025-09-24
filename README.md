@@ -67,7 +67,7 @@ The system allows administrators, nurses, and doctors to coordinate convocations
 ![Convocation Form](./Screenshots/sendEMail.png)
 
 ### state changes after sending email
-![State changes](./Screenshots/statechangeRDV.png)
+![State changes](./Screenshots/stateChangeRDV.png)
 
 ### Email Notification
 ![Email Notification](./Screenshots/Email.png)
@@ -76,9 +76,10 @@ The system allows administrators, nurses, and doctors to coordinate convocations
 ![Email Notification](./Screenshots/doctordashboard.png)
 
 ### List of appointments
-![Email Notification](./Screenshots/convocation.png)
+![Appointments](./Screenshots/Convocations.png)
 ### prescription generation
-![Email Notification](./Screenshots/prescription.png)
+
+![Prescription](./Screenshots/Prescription.png)
 ---
 
 ## 📦 Installation & Setup
@@ -87,5 +88,6 @@ The system allows administrators, nurses, and doctors to coordinate convocations
    ```bash
    git clone https://github.com/romidj/Naftal-Internship-Annual-Medical-Visit-Management-System.git
    cd Naftal-Internship-Annual-Medical-Visit-Management-System
+
 
 
