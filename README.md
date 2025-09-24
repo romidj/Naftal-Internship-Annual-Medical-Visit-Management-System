@@ -50,35 +50,35 @@ The system allows administrators, nurses, and doctors to coordinate convocations
 ## 📸 Screenshots
 
 ### Authentification
-![Dashboard](./screenshots/Authentification.png)
+![Dashboard](./Screenshots/Authentification.png)
 
 
 ### Dashboard Admin - Nurse -
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./Screenshots/dashboard.png)
 
 ### Convocation Management
 ### company's Services
-![list of services](./screenshots/list_direction_admin.png)
+![list of services](./Screenshots/list_direction_admin.png)
 ### Employees per Service
-![List of employees](./screenshots/employees.png)
+![List of employees](./Screenshots/employees.png)
 ### One emplyee details
-![Details Employe](./screenshots/detail_emp.png)
+![Details Employe](./Screenshots/detail_emp.png)
 ### Convocation form
-![Convocation Form](./screenshots/sendEMail.png)
+![Convocation Form](./Screenshots/sendEMail.png)
 
 ### state changes after sending email
-![State changes](./screenshots/statechangeRDV.png)
+![State changes](./Screenshots/statechangeRDV.png)
 
 ### Email Notification
-![Email Notification](./screenshots/Email.png)
+![Email Notification](./Screenshots/Email.png)
 
 ### Doctors' dashboard
-![Email Notification](./screenshots/doctordashboard.png)
+![Email Notification](./Screenshots/doctordashboard.png)
 
 ### List of appointments
-![Email Notification](./screenshots/convocation.png)
+![Email Notification](./Screenshots/convocation.png)
 ### prescription generation
-![Email Notification](./screenshots/prescription.png)
+![Email Notification](./Screenshots/prescription.png)
 ---
 
 ## 📦 Installation & Setup
@@ -87,4 +87,5 @@ The system allows administrators, nurses, and doctors to coordinate convocations
    ```bash
    git clone https://github.com/romidj/Naftal-Internship-Annual-Medical-Visit-Management-System.git
    cd Naftal-Internship-Annual-Medical-Visit-Management-System
+
 
