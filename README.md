@@ -87,3 +87,4 @@ The system allows administrators, nurses, and doctors to coordinate convocations
    ```bash
    git clone https://github.com/romidj/Naftal-Internship-Annual-Medical-Visit-Management-System.git
    cd Naftal-Internship-Annual-Medical-Visit-Management-System
+
